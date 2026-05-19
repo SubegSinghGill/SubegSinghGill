@@ -10,22 +10,21 @@ I'm a student developer focused mainly on GameMaker Studio 2 development and tec
 ---
 Perks of working with me:
 
-> Professional overthinker.
+  **> Professional overthinker.**
 
-> I build systems, debug chaos, and make things *partially* work.
----
+  **> I build systems, debug chaos, and make things *partially* work.**
 
 ---
 While writing code is usually the easy part, I especially enjoy:
 
 
-debugging complicated systems,
+  debugging complicated systems,
 
-fixing broken logic,
+  fixing broken logic,
 
-optimizing workflows,
+  optimizing workflows,
 
-and designing UI systems that actually feel good to use.
+  and designing UI systems that actually feel good to use.
 
 ---
 Outside of programming, I'm also interested in:
@@ -33,19 +32,19 @@ Outside of programming, I'm also interested in:
 
 
 **Mechatronics**
+---
+  Engineering systems
 
-Engineering systems
+  3D design
 
-3D design
+  Technical prototyping
 
-Technical prototyping
-
-CAD workflows
+  CAD workflows
 
 Right now, I'm learning more Python while continuing to improve my overall software and engineering skills.
----
-**Tech Stack**
 
+**Tech Stack**
+---
   *Languages*
 
 GML (GameMaker Language)
@@ -63,9 +62,9 @@ FreeCAD
 VSCode
 
 GitHub
-
+---
   *What I Focus On*
-
+---
 Gameplay logic
 
 UI systems
@@ -80,7 +79,7 @@ Engineering-oriented workflows
 
 ---
 **Current Goals**
-
+---
 Improve Python knowledge
 
 Build larger technical projects
@@ -91,7 +90,8 @@ Study Mechatronics Engineering
 
 
 ---
-Subeg Singh Gill
+**Subeg Singh Gill**
+---
 <!--
 **SubegSinghGill/SubegSinghGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
