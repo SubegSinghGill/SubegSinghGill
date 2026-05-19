@@ -4,13 +4,16 @@
   </a>
 </p>
 
+
+I'm a student developer focused mainly on GameMaker Studio 2 development and technical problem solving.
+
+---
 Perks of working with me:
 
 > Professional overthinker.
 
 > I build systems, debug chaos, and make things *partially* work.
 ---
-I'm a student developer focused mainly on GameMaker Studio 2 development and technical problem solving.
 
 ---
 While writing code is usually the easy part, I especially enjoy:
