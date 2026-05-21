@@ -27,15 +27,19 @@ While writing code is usually the easy part, I especially enjoy:
   and designing UI systems that actually feel good to use.
 
 ---
-Outside of programming, I'm also interested in:
-
-
-
-**Mechatronics**
+Interests
 ---
+
+
+  Mechatronics
+
   Engineering systems
 
-  3D design
+  3D design & Animation
+  - Blender
+  - FreeCAD
+  - AutoCAD
+  - SourceFilmMaker (SFM)
 
   Technical prototyping
 
@@ -62,7 +66,7 @@ FreeCAD
 VSCode
 
 GitHub
----
+
   *What I Focus On*
 ---
 Gameplay logic
@@ -90,7 +94,7 @@ Study Mechatronics Engineering
 
 
 ---
-**Subeg Singh Gill**
+Subeg Singh Gill
 ---
 <!--
 **SubegSinghGill/SubegSinghGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
